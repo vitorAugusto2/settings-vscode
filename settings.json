@@ -1,0 +1,21 @@
+{
+    "workbench.colorTheme": "Min Dark",
+    "symbols.hidesExplorerArrows": false,
+    "workbench.iconTheme": "symbols",
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontSize": 14,
+    "editor.lineHeight": 1.8,
+    "editor.rulers": [80, 120],
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.renderLineHighlight": "gutter",
+    "workbench.editor.labelFormat": "short",
+    "explorer.compactFolders": false,
+    "editor.semanticHighlighting.enabled": false,
+    "breadcrumbs.enabled": false,
+    "workbench.activityBar.location": "hidden",
+    "editor.minimap.enabled": false,
+    "apc.font.family": "inter",
+    "terminal.integrated.fontSize": 14,
+    "terminal.integrated.fontFamily": "JetBrains Mono",
+    "python.defaultInterpreterPath": "C:\\Users\\vitor\\AppData\\Local\\Programs\\Python\\Python312\\python.exe"
+}
