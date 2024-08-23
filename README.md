@@ -2,6 +2,8 @@
 
 Este arquivo de configurações é uma personalização do meu ambiente de desenvolvimento no Visual Studio Code, focado em produtividade, simplicidade e estética. Abaixo estão as principais configurações que utilizo:
 
+![image](https://github.com/user-attachments/assets/81172ef0-cec1-4cfb-8bab-dc087002d569)
+
 ## Configurações Gerais
 
 - **Tema**: `"Min Dark"` - Um tema escuro minimalista para maior conforto visual durante o desenvolvimento.
